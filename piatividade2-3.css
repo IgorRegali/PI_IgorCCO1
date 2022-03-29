@@ -1,0 +1,30 @@
+.a{background-color: white;
+    width: 50vw;
+    height: 500px;
+    border: 10px dashed black;
+    justify-content:center;
+    display:flex;
+    flex-direction: column;
+}
+
+.b{background-color: yellow;
+    width: 30%px;
+    height: 50px;
+    border: 20px dashed red;
+}
+
+.c{ background-color:orangered;
+    height:100px;
+    width: 30%; 
+}
+
+.d{background-color: green;
+    color:white;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
